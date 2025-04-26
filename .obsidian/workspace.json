@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "4582a0f3b2700482",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c18e4cbe4b3ffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f0ed40e0794bff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79cdd3665d490cd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ece8fa20b43713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1b0cf0329f78bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "57cfe101b8ff8a9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "06a637a3fc3f30a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e2f6eba123261a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d202d2662059acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a67b46b3febc8289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5c3479328486bdfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "6253383725964445",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "573531470fa70acc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "82f0ed40e0794bff",
+  "lastOpenFiles": [
+    "dio-lab-open-source/CONTRIBUTING.md",
+    "dio-lab-open-source/community/gusta4065.md",
+    "dio-lab-open-source/community/ander-luan92.md",
+    "dio-lab-open-source/community/EvelynFreire.md",
+    "dio-lab-open-source/community/zani19.md",
+    "dio-lab-open-source/community/zangeronimo.md",
+    "dio-lab-open-source/community/zanellafernanda.md",
+    "dio-lab-open-source/community/zandrocr.md",
+    "dio-lab-open-source/community/zamperli.md",
+    "dio-lab-open-source/community/zaminlima.md",
+    "dio-lab-open-source/community/zambiancoze.md",
+    "dio-lab-open-source/community/zalbuquerque.md",
+    "dio-lab-open-source/community/zahanzo.md",
+    "dio-lab-open-source/community/zadiguin.md",
+    "dio-lab-open-source/community/zackandcoding1.md",
+    "dio-lab-open-source/community/zabpetrus.md",
+    "dio-lab-open-source/community/zThiago15.md",
+    "dio-lab-open-source/community/zKeeper202.md",
+    "dio-lab-open-source/community/zKaue.md",
+    "dio-lab-open-source/community/zJunioJz.md",
+    "dio-lab-open-source/community/zEnder7072.md",
+    "dio-lab-open-source/community/zDanyllo.md",
+    "dio-lab-open-source/community/zAstergun.md",
+    "dio-lab-open-source/community/z3r0coder.md",
+    "dio-lab-open-source/community/z3mafra.md",
+    "dio-lab-open-source/community/z-esb.md",
+    "dio-lab-open-source/docs/assets/js/scripts.js",
+    "dio-lab-open-source/docs/assets/css/styles.css",
+    "dio-lab-open-source/docs/assets/js",
+    "dio-lab-open-source/docs/assets/css",
+    "dio-lab-open-source/docs/index.html",
+    "dio-lab-open-source/docs/favicon.ico",
+    "dio-lab-open-source/docs/assets",
+    "dio-lab-open-source/docs",
+    "dio-lab-open-source/scripts/PR_Labeler_DIO_Lab_Workflow_Trigger.ipynb",
+    "dio-lab-open-source/scripts",
+    "dio-lab-open-source/community/image.png",
+    "dio-lab-open-source/community/image-1.png"
+  ]
+}
