@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fe51e48-9997-4c36-b1ee-c971277d6e7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContaBanco/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContaBanco/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContaBanco/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContaBanco/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContaBanco/src/ContaTerminal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +12,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gusta4065/Dio_Trilha_java.git",
-    "accountId": "0040e422-9728-465f-b227-72d78678596a"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    },
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;gusta4065&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;gusta4065&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gusta4065/Dio_Trilha_java.git&quot;,
+    &quot;accountId&quot;: &quot;0040e422-9728-465f-b227-72d78678596a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
