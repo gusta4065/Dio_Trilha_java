@@ -4,7 +4,7 @@ public class ContaTerminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         //comentario
-        int numero;
+        int numero = 0;
         String agencia;
         String nomeCliente;
         double saldo;
