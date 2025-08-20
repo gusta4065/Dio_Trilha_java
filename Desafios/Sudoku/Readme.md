@@ -29,7 +29,7 @@ O projeto é organizado nos seguintes arquivos e classes:
 * **`src/Model/Space.java`**: Uma classe que representa um único espaço (célula) no tabuleiro do Sudoku, controlando se o número é fixo ou não.
 * **`src/Model/Board.java`**: A classe que representa o tabuleiro do jogo. Contém os métodos para manipular o tabuleiro, verificar o status e a presença de erros.
 * **`src/util/BTemplate.java`**: Uma classe de utilidade que armazena a string de template para a formatação visual do tabuleiro.
-
+---
 ## Como Executar
 ```markdown
 Para rodar o projeto, siga estes passos:
@@ -40,52 +40,7 @@ Para rodar o projeto, siga estes passos:
     * Cada argumento é uma string no formato `"coluna,linha;valor,éFixo"`. Por exemplo, `"0,0;5,true"` representa a posição `[0,0]` com o valor `5` fixo.
 3.  O menu interativo será exibido no console.
 ```
-
-###Projeto Sudoku
-
-# Jogo de Sudoku em Java
-
-## Descrição do Projeto
-
-Este projeto é uma implementação de um jogo de Sudoku em console, desenvolvido em Java. O jogo é interativo e permite que o jogador execute diversas ações, como iniciar uma nova partida, preencher ou remover números e verificar o status atual do tabuleiro. O objetivo principal do projeto foi a aplicação de conceitos de Programação Orientada a Objetos (POO), coleções e a API de Streams.
-
-## Requisitos
-
-O jogo foi projetado para atender aos seguintes requisitos, oferecendo um menu interativo para o jogador:
-
-1.  **Iniciar um novo jogo:** Exibe o tabuleiro com os números iniciais preenchidos. As posições e valores iniciais são definidos via argumentos da linha de comando do método `main`.
-2.  **Colocar um novo número:** Solicita a coluna, a linha e o número a ser inserido. Não permite a inserção de números em posições que já contêm um valor fixo ou já foram preenchidas.
-3.  **Remover um número:** Permite remover um número de uma posição específica. Impede a remoção de números fixos do jogo, exibindo uma mensagem de aviso.
-4.  **Visualizar jogo atual:** Exibe a situação atual do tabuleiro de forma formatada.
-5.  **Verificar status do jogo:** Informa o status do jogo em três estados: `NÃO INICIADO`, `INCOMPLETO` e `COMPLETO`. Também indica se o tabuleiro contém erros. Um jogo `NÃO INICIADO` não pode conter erros.
-6.  **Limpar:** Remove todos os números inseridos pelo jogador, mantendo apenas os números fixos iniciais.
-7.  **Finalizar o jogo:** Encerra o jogo se todos os espaços estiverem preenchidos corretamente e sem erros. Caso contrário, exibe uma mensagem de orientação ao jogador.
-8.  **Sair:** Encerra o programa.
-
-## Estrutura do Código
-
-O projeto é organizado nos seguintes arquivos e classes:
-
-* **`src/Main.java`**: A classe principal do programa. Contém a lógica de interação com o usuário, o menu interativo e a orquestração das ações.
-* **`src/Model/GameStatus.java`**: Um `enum` que define os possíveis estados do jogo (`NON_STARTED`, `INCOMPLETE`, `COMPLETE`).
-* **`src/Model/Space.java`**: Uma classe que representa um único espaço (célula) no tabuleiro do Sudoku, controlando se o número é fixo ou não.
-* **`src/Model/Board.java`**: A classe que representa o tabuleiro do jogo. Contém os métodos para manipular o tabuleiro, verificar o status e a presença de erros.
-* **`src/util/BTemplate.java`**: Uma classe de utilidade que armazena a string de template para a formatação visual do tabuleiro.
-
 ---
-Como Executar
-
-Para rodar o projeto, siga estes passos:
-1.  Compile os arquivos Java (`.java`) na pasta `src`.
-2.  Execute a classe `Main.java` a partir da linha de comando, passando os números iniciais do jogo como argumentos.
-    * **Exemplo de execução:**
-        `java Main "0,0;5,true" "0,1;3,false" ...`
-    * Cada argumento é uma string no formato `"coluna,linha;valor,éFixo"`. Por exemplo, `"0,0;5,true"` representa a posição `[0,0]` com o valor `5` fixo.
-3.  O menu interativo será exibido no console.
----
-
-
-
 ### **POO, Collections e a Poderosa Stream API no Java**
 
 #### **1. Introdução: Construindo um Código Robusto e Elegante**
