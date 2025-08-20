@@ -67,4 +67,4 @@ Neste projeto, as coleções e a API de `Stream`s trabalham juntas para criar um
 
 Este projeto simples demonstra o uso de classes para encapsular dados e comportamentos.
 
-* **Encapsulamento**: A classe interna `BicicletaInterna` encapsula o `modelo` e o `nivelBateria` como atributos privados. O acesso a esses dados e a lógica de cálculo da distância máxima são controlados por métodos públicos, como `calcularDistancia()`.
+* **Encapsulamento**: A classe interna `BicicletaInterna` encapsula o `modelo` e o `nivelBateria` como atributos privados. O acesso a esses dados e a lógica de cálculo da distância máxima são controlados por métodos públicos, como `calcularDistancia()`.  
