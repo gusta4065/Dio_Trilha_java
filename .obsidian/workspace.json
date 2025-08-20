@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basico/Conceitos de POO e Collections Trilha java Dio.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos de POO e Collections Trilha java Dio"
+              "title": "Readme"
             }
           },
           {
@@ -179,10 +179,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6d1b0cf0329f78bf",
+  "active": "82f0ed40e0794bff",
   "lastOpenFiles": [
-    "Read.me.md",
     "Basico/Conceitos de POO e Collections Trilha java Dio.md",
+    "Readme.md",
     "Readme.md",
     "Basico/Desafios/Sudoku/Readme.md",
     "Basico/Desafios/Desafio_poo_dio/readme.md",
