@@ -10,12 +10,12 @@ Este projeto de simulação de um *bootcamp* é um exemplo claro da aplicação 
 #### Abstração
 A abstração foi utilizada para criar uma classe genérica que representa o que há de comum entre os conteúdos do *bootcamp*.
 * **Conceito**: A classe `Conteudo` é uma classe abstrata, um molde com atributos comuns (`titulo` e `descricao`) para as classes filhas.
-* **Mais informações**: !(Desafios/Desafio_poo_dio/readme.md#1-abstração)
+* **Mais informações**: (Desafios/Desafio_poo_dio/readme.md#1-abstração)
 
 #### Encapsulamento
 O encapsulamento protege os dados dos objetos e garante sua integridade.
 * **Conceito**: Todos os atributos das classes (`Bootcamp`, `Dev`, `Conteudo`, `Curso` e `Mentoria`) são privados e são acessados apenas por meio de métodos *getters* e *setters* públicos.
-* **Mais informações**: [[Desafios/Desafio_poo_dio/readme.md#2. Encapsulamento]]
+* **Mais informações**: (Desafios/Desafio_poo_dio/readme.md#2. Encapsulamento)
 
 #### Herança
 A herança permite a reutilização de código e a especialização de classes.
