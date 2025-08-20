@@ -10,7 +10,7 @@ Este projeto de simulação de um *bootcamp* é um exemplo claro da aplicação 
 #### Abstração
 A abstração foi utilizada para criar uma classe genérica que representa o que há de comum entre os conteúdos do *bootcamp*.
 * **Conceito**: A classe `Conteudo` é uma classe abstrata, um molde com atributos comuns (`titulo` e `descricao`) para as classes filhas.
-* **Mais informações**: [[Desafios/Desafio_poo_dio/readme.md#1. Abstração]]
+* **Mais informações**: !(Desafios/Desafio_poo_dio/readme.md#1-abstração)
 
 #### Encapsulamento
 O encapsulamento protege os dados dos objetos e garante sua integridade.
