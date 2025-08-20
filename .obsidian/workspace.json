@@ -11,10 +11,28 @@
             "id": "82f0ed40e0794bff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Read.me.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Read.me"
+            }
+          },
+          {
+            "id": "3c98b634f138b16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basico/Desafios/Desafio_poo_dio/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ]
@@ -163,14 +181,20 @@
   },
   "active": "82f0ed40e0794bff",
   "lastOpenFiles": [
-    "ContaBanco/out/production/ContaBanco/ContaTerminal.class",
-    "ContaBanco/out/production/ContaBanco",
-    "ContaBanco/src/ContaTerminal.java",
-    "ContaBanco/out/production",
-    "ContaBanco/src",
-    "ContaBanco/ContaBanco.iml",
-    "ContaBanco/out",
-    "ContaBanco",
+    "Read.me.md",
+    "Basico/Conceitos de POO e Collections Trilha java Dio.md",
+    "Basico/Desafios/Desafio_poo_dio/readme.md",
+    "Spring Web/Conceito de Api's.md",
+    "Spring Web",
+    "Basico",
+    "Basico/ContaBanco/out/production/ContaBanco/ContaTerminal.class",
+    "Basico/ContaBanco/out/production/ContaBanco",
+    "Basico/ContaBanco/src/ContaTerminal.java",
+    "Basico/ContaBanco/out/production",
+    "Basico/ContaBanco/src",
+    "Basico/ContaBanco/ContaBanco.iml",
+    "Basico/ContaBanco/out",
+    "Basico/ContaBanco",
     "dio-lab-open-source/CONTRIBUTING.md",
     "dio-lab-open-source/community/gusta4065.md",
     "dio-lab-open-source/community/ander-luan92.md",
@@ -193,12 +217,6 @@
     "dio-lab-open-source/community/zJunioJz.md",
     "dio-lab-open-source/community/zEnder7072.md",
     "dio-lab-open-source/community/zDanyllo.md",
-    "dio-lab-open-source/community/zAstergun.md",
-    "dio-lab-open-source/community/z3r0coder.md",
-    "dio-lab-open-source/community/z3mafra.md",
-    "dio-lab-open-source/docs/assets/js/scripts.js",
-    "dio-lab-open-source/docs/assets/css/styles.css",
-    "dio-lab-open-source/docs/assets/js",
     "dio-lab-open-source/community/image.png",
     "dio-lab-open-source/community/image-1.png"
   ]
