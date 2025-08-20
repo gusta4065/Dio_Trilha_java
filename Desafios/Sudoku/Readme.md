@@ -1,6 +1,6 @@
 ### `README.md` do Projeto Sudoku
 
-```markdown
+
 # Jogo de Sudoku em Java
 
 ## Descrição do Projeto
@@ -31,7 +31,7 @@ O projeto é organizado nos seguintes arquivos e classes:
 * **`src/util/BTemplate.java`**: Uma classe de utilidade que armazena a string de template para a formatação visual do tabuleiro.
 
 ## Como Executar
-
+```markdown
 Para rodar o projeto, siga estes passos:
 1.  Compile os arquivos Java (`.java`) na pasta `src`.
 2.  Execute a classe `Main.java` a partir da linha de comando, passando os números iniciais do jogo como argumentos.
